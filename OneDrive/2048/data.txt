@@ -1,0 +1,10 @@
+{"high_score" : 0}
+Score: 892, Time: 21
+Score: 340, Time: 26
+Score: 68, Time: 18
+Score: 32, Time: 11
+Score: 0, Time: 4
+Score: 0, Time: 1
+Score: 0, Time: 1
+Score: 1752, Time: 27
+Score: 4296, Time: 32
